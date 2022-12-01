@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# data folder
+data/networkEdge
+data/networkEdge - Copy
+data/sourceTrans
+data/sourceTrans - Copy
